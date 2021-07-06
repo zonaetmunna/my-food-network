@@ -1,0 +1,49 @@
+body{
+     font-family: 'Poppins', sans-serif;
+     margin: 0;
+}
+.tomato-color{
+     color: tomato;
+}
+h1{
+     font-size: 50px;
+}
+/*heading part style*/
+.container-flex{
+     display: flex;
+     
+     margin-bottom: 100px;
+     padding: 10px;
+     
+
+}
+.flexble-container-style{
+     width: 50%;
+     margin-left: 30px;
+
+
+}
+.flexble-container-style-img{
+     width: 70%;
+     padding-left: 50px;
+
+}
+
+.flexble-container-style-a{
+     text-decoration: none;
+     border: 10px;
+     border-radius: 10px;
+     background-image: linear-gradient(rgb(74, 247, 103),blue);
+     padding: 5px;
+     margin: 10px;
+}
+.top-banner{
+     background-image: url(images/shapes/Frame\ 57.jpg);
+     background-repeat: no-repeat;
+
+}
+
+.middle-banner{
+     background-image: url(images/shapes/Frame\ 58.jpg);
+     background-repeat: no-repeat;
+}
