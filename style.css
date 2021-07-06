@@ -54,11 +54,6 @@ h1{
 }
 
 
-.middle-banner{
-     background-image: url(images/shapes/Frame\ 58.jpg);
-     
-}
-
 
 /*recipi part 3rd stye*/
 
@@ -115,13 +110,11 @@ h1{
 
 
 
-
-
 /*reord part style*/
 .review-media{
      display: flex;
      margin: 50px;
-     margin-bottom: 150px;
+     margin-bottom: 100px;
      box-shadow:10px 10px 10px rgb(162, 172, 182);
 
 
