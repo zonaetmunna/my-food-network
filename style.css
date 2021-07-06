@@ -12,6 +12,7 @@ h1{
 }
 
 
+
 /*heading part style*/
 
 .container-flex{
@@ -53,6 +54,11 @@ h1{
      
 }
 
+.middle-banner{
+     background-image: url(images/shapes/Frame\ 58.jpg);
+     background-repeat: no-repeat;
+     background-position-x: right;
+}
 
 
 /*recipi part 3rd stye*/
@@ -61,11 +67,12 @@ h1{
 
      width: 100%;
      height: 600px;
-     margin-bottom:100px;
+     margin-bottom:200px;
      padding: 10px;
      
      
 }
+
 .recipie-heading{
      color:rgb(199, 47, 20);
      text-align: center;
@@ -75,17 +82,18 @@ h1{
 
 .content-flex-recipie{
      display: flex;
-     height: 500px;
-     width: 100%;
+     margin-bottom: 200px;
      
      
-     
-
 }
 
 .content-flex-res-item{
+     display: flex;
+     flex-direction: column;
      
-     margin:10px;
+     margin-left: 10px;
+     margin-right: 10px;
+     padding: 5px;
      
      box-shadow: 5px 5px 5px gray;
      border-radius: 20px;
@@ -94,11 +102,9 @@ h1{
 
 .flexble-res-item{
      
+     height: 60%;
      
-     width: 100%;
-     height: 50%;
-     margin: 5px;
-     padding: 5px;
+     padding: 10px;
      
 
 }
