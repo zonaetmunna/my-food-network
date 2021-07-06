@@ -18,23 +18,22 @@ h1{
 .container-flex{
      display: flex;
 
-     height: 400px;
-
      margin-bottom: 100px;
+     
      
 }
 
 .flexble-container-width{
      width: 50%;
     
-     margin-right: 70px;
-     margin-left: 70px;
-     padding: 10px;
+     margin: 2%;
+     padding:2%;
 
 
 }
 .flexble-container-width img{
      width: 100%;
+     border-radius: 20px;
 
 }
 
@@ -54,10 +53,15 @@ h1{
      
 }
 
+
+
+
 .middle-banner{
-     background-image: url(images/shapes/Frame\ 58.jpg);
+     background-image: url(images/shapes/Frame\ 59.jpg);
      background-repeat: no-repeat;
-     background-position-x: right;
+     background-size: 100%;
+     
+     width: 100%;
 }
 
 
